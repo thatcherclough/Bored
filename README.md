@@ -17,4 +17,5 @@ Given that this was an introductory project, Bored is not on the App Store. Howe
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
+
 Copyright 2021 © Thatcher Clough.
